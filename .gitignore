@@ -1,0 +1,4 @@
+# Referências locais (pesados) — não necessários no GitHub Pages
+*.pdf
+*.docx
+atividade-diagrama-uml-docs/
